@@ -1,4 +1,4 @@
-# Coding-Quizgit
+# Coding-Quiz
 A timed quiz on JavaScript fundamentals that stores high scores
 
 ## User Story
