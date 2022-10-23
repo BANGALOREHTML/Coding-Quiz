@@ -3,10 +3,30 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ol {
+ol{
     padding:0%
 }
 
-.header {
+.header{
     display: flex;
 }
+
+.page{
+    width:80%
+    text-align: center;
+    margin-top: 50px;
+    margin: 50px auto;
+}
+
+#startButt,
+.submitBtn,
+.go-back,
+.clear-scores{
+    background-color: pink
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin: 5px 10px;
+}
+
