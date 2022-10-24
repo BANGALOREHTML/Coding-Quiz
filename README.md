@@ -15,7 +15,7 @@ I made this to practice using JavaScript and to help people practice for their i
 The user is presented with a start button. When the user clicks the start button, the timer starts and the user is presented with a question. When the user answers a question, they are presented with another question. When the user answers a question incorrectly, time is subtracted from the clock. When all questions are answered or the timer reaches 0, the game is over. When the game is over, the user can save their initials and score to a list of high scores.
 
 ### Screenshot of working application and link to deployed application
-[Screenshot of Deployed Application](./Assets/CQ_DA.JPG)
+![Screenshot of Deployed Application](/CQ_DA.png)
 
 Deployed Website Link [Click Here!](http://127.0.0.1:5500/Devloped/index.html)
 
