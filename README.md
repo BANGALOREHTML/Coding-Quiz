@@ -17,7 +17,7 @@ The user is presented with a start button. When the user clicks the start button
 ### Screenshot of working application and link to deployed application
 ![Screenshot of Deployed Application](/CQ_DA.png)
 
-Deployed Website Link [Click Here!](http://127.0.0.1:5500/Devloped/index.html)
+Deployed Website Link [Click Here!](https://bangalorehtml.github.io/Coding-Quiz/)
 
 ### Credits
 Created by Dez Duran
