@@ -76,7 +76,7 @@ var questionList = [
 
 var questionHead = document.createElement("h1"); 
 questionHead.className = "question-head";
-var questionDiv = document.createElement("ol"); 
+var questionDiv = document.createElement("ol");
 questionDiv.className = "question-list";
 var questionBtnOne = document.createElement("button"); 
 questionBtnOne.className = "question-btn-one";
